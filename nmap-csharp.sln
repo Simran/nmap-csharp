@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nmap-csharp", "nmap-csharp\nmap-csharp.csproj", "{FA841543-FC14-4A1D-BC67-1A9B2D051850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA841543-FC14-4A1D-BC67-1A9B2D051850}.Debug|x86.ActiveCfg = Debug|x86
+		{FA841543-FC14-4A1D-BC67-1A9B2D051850}.Debug|x86.Build.0 = Debug|x86
+		{FA841543-FC14-4A1D-BC67-1A9B2D051850}.Release|x86.ActiveCfg = Release|x86
+		{FA841543-FC14-4A1D-BC67-1A9B2D051850}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = nmap-csharp\nmap-csharp.csproj
+	EndGlobalSection
+EndGlobal
